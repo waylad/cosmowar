@@ -1,6 +1,6 @@
 ## CosmoWar
 
-### Demo Video:
+### Demo Video: https://youtu.be/dCnpZwqaGEk
 
 ### Demo: https://cosmowar.io
 
@@ -21,7 +21,7 @@ We have created an NFT collection of 256 unique spaceships made of a combination
 Make sure you have installed Metamask and connected it to the `EVMOS Testnet`, then click "Connect your Wallet". Metamask will open to authorize the connection and should ask you to switch your network to EVMOS. Make sure you have a few test tokens to test the game.
 
 You are now ready to play CosmoWar!
-![](https://cosmowar.io/assets/bg-home.png)
+![](https://cosmowar.io/assets/screenshots/connect-wallet-scene.png)
 
 Once your wallet is connected, the game will attempt to fetch all your spaceship NFTs from the smart contract. If you do not yet have an spaceship NFT, click "Mint New Ship" and Metamask will open to trigger the mint. You will receive a basic ship with entry-level weapons, wings, engine, and cabin. The ship will appear in your list of ships (if not refresh the page). Select that ship to access the game.
 ![](https://cosmowar.io/assets/screenshots/select-ship-2.png)
